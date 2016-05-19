@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1460461700 source:/home/parallels/cpp/PetersTest/main.cpp
+	<Calculator.h>
+
+1460550875 /home/parallels/cpp/PetersTest/include/Calculator.h
+
+1460532666 source:/home/parallels/cpp/PetersTest/src/Calculator.cpp
+	"Calculator.h"
+
+1460463752 source:/home/parallels/cpp/PetersTest/CalculatorTests.cpp
+	<CalculatorTests.h>
+	<cppunit/TestAssert.h>
+
+1460537377 source:/home/parallels/cpp/PetersTest/TestMain.cpp
+	<stdio.h>
+	<cppunit/extensions/TestFactoryRegistry.h>
+	<cppunit/TestResult.h>
+	<cppunit/TestResultCollector.h>
+	<cppunit/TestRunner.h>
+	<cppunit/BriefTestProgressListener.h>
+	<cppunit/CompilerOutputter.h>
+	<cppunit/XmlOutputter.h>
+	<fstream>
+
+1460462839 /home/parallels/cpp/PetersTest/include/CalculatorTests.h
+	<iostream>
+	<string>
+	<list>
+	<cppunit/TestCase.h>
+	<cppunit/TestFixture.h>
+	<cppunit/ui/text/TextTestRunner.h>
+	<cppunit/extensions/HelperMacros.h>
+	<cppunit/extensions/TestFactoryRegistry.h>
+	<cppunit/TestResult.h>
+	<cppunit/TestResultCollector.h>
+	<cppunit/TestRunner.h>
+	<cppunit/BriefTestProgressListener.h>
+	<cppunit/CompilerOutputter.h>
+	<cppunit/XmlOutputter.h>
+	<netinet/in.h>
+	<Calculator.h>
+
