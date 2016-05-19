@@ -12,7 +12,7 @@ void CalculatorTests::addTwoNumbersTest()
 void CalculatorTests::addTwoNumbersThisShouldFailTest()
 {
     //calc->addTwoNumbers(4,2);
-   CPPUNIT_ASSERT(calc->addTwoNumbers(4,2) == 6 );
+   CPPUNIT_ASSERT(calc->addTwoNumbers(4,3) == 6 );
 }
 
 
